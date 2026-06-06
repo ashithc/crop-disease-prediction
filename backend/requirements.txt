@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-bcrypt
+flask-jwt-extended
+tensorflow
+torch
+pillow
+numpy
+git+https://github.com/openai/CLIP.git
+google-auth
+google-auth-oauthlib
